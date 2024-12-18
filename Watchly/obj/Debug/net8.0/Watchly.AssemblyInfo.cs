@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Watchly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7260973a7ff24158c132ee95a4f2372e329981d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Watchly")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Watchly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

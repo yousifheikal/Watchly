@@ -157,3 +157,4 @@ C:\Users\youss\source\repos\Watchly\Watchly\obj\Debug\net8.0\Watchly.pdb
 C:\Users\youss\source\repos\Watchly\Watchly\obj\Debug\net8.0\Watchly.genruntimeconfig.cache
 C:\Users\youss\source\repos\Watchly\Watchly\obj\Debug\net8.0\ref\Watchly.dll
 C:\Users\youss\source\repos\Watchly\Watchly\bin\Debug\net8.0\appsettings.json
+C:\Users\youss\source\repos\Watchly\Watchly\obj\Debug\net8.0\Watchly.sourcelink.json
